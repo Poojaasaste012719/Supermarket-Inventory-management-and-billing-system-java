@@ -24,7 +24,7 @@ IntelliJ IDEA (Recommended IDE)
 image
 🛠️ Setup Instructions
 Clone this repository
-git clone https://github.com/mansviverma18/supermarket-management-system.git
+git clone(https://github.com/Poojaasaste012719/Supermarket-Inventory-management-and-billing-system-java/)
 Open the project in IntelliJ IDEA or any Java IDE
 
 Make sure MySQL is installed and running
